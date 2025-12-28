@@ -2,12 +2,11 @@
 <h3 align="center">Building scalable full-stack applications and exploring AI/ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilvishyt&label=Profile%20views&color=0e75b6&style=flat" alt="sunilvishyt" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilvishyt" alt="sunilvishyt" /></a> </p>
 
-- 🔭 I’m currently working on **VidTube a youtube like site with React + django**
+- 🔭 I’m currently working on **VidTube - a youtube like webapp with React + FastAPI**
 
-- 🌱 I’m currently learning **React.js, MERN stack, DSA**
+- 🌱 I’m currently learning **React.js, FastAPI, DSA**
 
 - 📫 How to reach me **sunilvish3602@gmail.com**
 
@@ -43,8 +42,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
 </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
