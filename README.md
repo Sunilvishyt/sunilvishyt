@@ -1,81 +1,77 @@
-<h1 align="center">Hi 👋, I'm Sunil Vishwakarma</h1>
-<h3 align="center">Building scalable full-stack applications and exploring AI/ML</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Sunil%20Vishwakarma&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  
+  <h3>🚀 Full-Stack Developer | AI/ML Enthusiast | Content Creator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilvishyt&label=Profile%20views&color=0e75b6&style=flat" alt="sunilvishyt" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilvishyt" alt="sunilvishyt" /></a> </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sunilvishyt&label=Profile%20views&color=0e75b6&style=flat-square" alt="sunilvishyt" />
+  </p>
+</div>
 
-- 🔭 I’m currently working on **VidTube - a youtube like webapp with React + FastAPI**
+---
 
-- 🌱 I’m currently learning **React.js, FastAPI, DSA**
+### 📖 About Me
 
-- 📫 How to reach me **sunilvish3602@gmail.com**
+- 🔭 **Currently Building:** [VibeTube](https://github.com/sunilvishyt) - A scalable video platform using **FastAPI** and **React**.
+- 🌱 **Learning Path:** Mastering the **MERN** stack and deep-diving into **Next.js** SSR.
+- 🎬 **Content Creation:** I enjoy making tech videos on my YouTube channel, **Anistan**.
+- 💬 **Ask me about:** Python, FastAPI, React, and building REST APIs.
 
-- ⚡ Fun fact **i create youtube videos too.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sunilvish3603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunilvish3603" height="30" width="40" /></a>
-<a href="https://instagram.com/sunil_vishwakarma.pmdc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunil_vishwakarma.pmdc" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@anistan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anistan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sunil_vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sunil_vishwakarma" height="30" width="40" /></a>
-</p>
+### 📊 GitHub Activity & Metrics
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilvishyt&theme=react-dark&area=true&hide_border=true" width="100%" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
+<br/>
 
-<p align="left">
+<div align="center">
+  <img src="https://img.shields.io/github/followers/sunilvishyt?label=Followers&style=for-the-badge&color=0e75b6">
+  <img src="https://img.shields.io/github/stars/sunilvishyt?label=Total%20Stars&style=for-the-badge&color=0e75b6">
+  <img src="https://img.shields.io/github/repo-size/sunilvishyt/VibeTube?label=VibeTube%20Size&style=for-the-badge&color=0e75b6">
+</div>
 
-<!-- Frontend -->
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
+---
 
-<!-- Backend -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
-</a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-</a> 
+### 🛠️ Languages & Tools
 
-<!-- Databases -->
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-</a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Frontend</strong></td>
+    <td align="center" width="25%"><strong>Backend</strong></td>
+    <td align="center" width="25%"><strong>Languages</strong></td>
+    <td align="center" width="25%"><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py,js,ts,cpp" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,docker,postman" />
+    </td>
+  </tr>
+</table>
 
-<!-- Data & Tools -->
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
+---
 
-<!-- Others -->
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
+### 🤝 Connect with me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilvishyt&show_icons=true&locale=en&layout=compact" alt="sunilvishyt" /></p>
+<div align="left">
+  <a href="https://linkedin.com/in/sunilvish3603" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@anistan" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/sunil_vishwakarma.pmdc" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/sunil_vishwakarma" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilvishyt&show_icons=true&locale=en" alt="sunilvishyt" /></p>
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=false&theme=cobalt" />
+</div>
