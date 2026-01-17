@@ -15,11 +15,38 @@
 - 🔭 **Currently Building:** [VibeTube](https://github.com/sunilvishyt) - A scalable video platform using **FastAPI** and **React**.
 - 🌱 **Learning Path:** Mastering the **MERN** stack and deep-diving into **Next.js** SSR.
 - 🎬 **Content Creation:** I enjoy making tech videos on my YouTube channel, **Anistan**.
-- 💬 **Ask me about:** Python, FastAPI, React, and building REST APIs.
+- 💬 **Ask me about:** Python, React, and building REST APIs.
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 🛠️ Tech Stack & Skills
+<table width="100%">
+  <tr>
+    <td align="center" width="100%" bgcolor="#0e1117">
+      <strong>💻 Frontend Development</strong>
+      <br />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts&perline=7" height="50" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%" bgcolor="#0e1117">
+      <strong>⚙️ Backend & Systems</strong>
+      <br />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,python,cpp&perline=7" height="50" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%" bgcolor="#0e1117">
+      <strong>🗄️ Database & Tools</strong>
+      <br />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,docker,postman,vscode&perline=7" height="50" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilvishyt&theme=react-dark&area=true&hide_border=true" width="100%" />
 </div>
@@ -29,35 +56,7 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/sunilvishyt?label=Followers&style=for-the-badge&color=0e75b6">
   <img src="https://img.shields.io/github/stars/sunilvishyt?label=Total%20Stars&style=for-the-badge&color=0e75b6">
-  <img src="https://img.shields.io/github/repo-size/sunilvishyt/VibeTube?label=VibeTube%20Size&style=for-the-badge&color=0e75b6">
 </div>
-
----
-
-### 🛠️ Languages & Tools
-
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>Backend</strong></td>
-    <td align="center" width="25%"><strong>Languages</strong></td>
-    <td align="center" width="25%"><strong>Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=py,js,ts,cpp" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,docker,postman" />
-    </td>
-  </tr>
-</table>
 
 ---
 
