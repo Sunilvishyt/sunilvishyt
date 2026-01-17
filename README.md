@@ -12,37 +12,46 @@
 
 ### 📖 About Me
 
-- 🔭 **Currently Building:** [VibeTube](https://github.com/sunilvishyt) - A scalable video platform using **FastAPI** and **React**.
+- 🔭 **Currently Building:** [VibeTube](https://github.com/sunilvishyt/vibetube) - A scalable video platform using **FastAPI** and **React.js**.
 - 🌱 **Learning Path:** Mastering the **MERN** stack and deep-diving into **Next.js** SSR.
 - 🎬 **Content Creation:** I enjoy making tech videos on my YouTube channel, **Anistan**.
-- 💬 **Ask me about:** Python, React, and building REST APIs.
+- 💬 **Ask me about:** Python, FastAPI, React.js, and building REST APIs.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-<table width="100%">
-  <tr>
-    <td align="center" width="100%" bgcolor="#0e1117">
-      <strong>💻 Frontend Development</strong>
-      <br />
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts&perline=7" height="50" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%" bgcolor="#0e1117">
-      <strong>⚙️ Backend & Systems</strong>
-      <br />
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,python,cpp&perline=7" height="50" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%" bgcolor="#0e1117">
-      <strong>🗄️ Database & Tools</strong>
-      <br />
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,docker,postman,vscode&perline=7" height="50" />
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="100%">
+        <br />
+        <strong>💻 Frontend Development</strong>
+        <br /><br />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts&perline=7" height="65" />
+        <br /><br />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100%">
+        <br />
+        <strong>⚙️ Backend & Systems</strong>
+        <br /><br />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,python,cpp&perline=7" height="65" />
+        <br /><br />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100%">
+        <br />
+        <strong>🗄️ Database & Tools</strong>
+        <br /><br />
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,docker,postman,vscode&perline=7" height="65" />
+        <br /><br />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -62,7 +71,7 @@
 
 ### 🤝 Connect with me
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/sunilvish3603" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/@anistan" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://instagram.com/sunil_vishwakarma.pmdc" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
