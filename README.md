@@ -12,8 +12,8 @@
 
 ### 📖 About Me
 
-- 🔭 **Currently Building:** [VibeTube](https://github.com/sunilvishyt/vibetube) - A scalable video platform using **FastAPI** and **React.js**.
-- 🌱 **Learning Path:** Mastering the **MERN** stack and deep-diving into **Next.js** SSR.
+- 🔭 **Currently Building:** [Documind AI ](https://github.com/Sunilvishyt/DocuMind-AI) - A Intelligent Document Understanding System Using RAG.
+- 🌱 **Learning Path:** Mastering the **MERN** stack and deep-diving into **AI Engineering**.
 - 🎬 **Content Creation:** I enjoy making tech videos on my YouTube channel, **Anistan**.
 - 💬 **Ask me about:** Python, FastAPI, React.js, and building REST APIs.
 
