@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Sunil%20Vishwakarma&fontSize=70&animation=fadeIn&fontAlignY=38" />
   
-  <h3>🚀 Full-Stack Developer | AI/ML Enthusiast | Content Creator</h3>
+  <h3>🚀 Full-Stack Developer | AI/ML Enthusiast | Content Creator </h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=sunilvishyt&label=Profile%20views&color=0e75b6&style=flat-square" alt="sunilvishyt" />
